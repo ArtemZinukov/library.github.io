@@ -18,7 +18,7 @@ def create_pages_directory(directory):
 
 
 def load_books():
-    with open("books/books_info.json", "r", encoding='utf-8') as file:
+    with open("media/books/books_info.json", "r", encoding='utf-8') as file:
         books_json = file.read()
     books = json.loads(books_json)
     return books
@@ -54,9 +54,9 @@ def main():
     on_reload()
 
     server = Server()
-    server.watch('books/books_info.json', on_reload)
-    server.watch('books/*.txt', on_reload)
-    server.watch('books/*.jpg', on_reload)
+    server.watch('media/books/books_info.json', on_reload)
+    server.watch('media/books/*.txt', on_reload)
+    server.watch('media/books/*.jpg', on_reload)
     server.watch('template.html', on_reload)
     server.watch('pages/*.html', on_reload)
 
