@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../static/bootstrap.min.css" >
+    <link rel="icon" type="image/png" href="../static/favicon.png">
+    <title>Hello, world!</title>
+    <style>
+        .pagination {
+            margin-top: 25px;
+        }
+        .card-body a {
+            margin-top: 5px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav aria-label="Page navigation">
+            <ul class="pagination">
+                {% if page_num > 1 %}
+                <li class="page-item">
+                    <a class="page-link" href="index{{ page_num - 1 }}.html">
+                       Предыдущая
+                    </a>
+                </li>
+                {% endif %}
+                {% for i in range(1, total_pages + 1) %}
+                <li class="page-item {% if i == page_num %}active{% endif %}">
+                    <a class="page-link" href="index{{ i }}.html">{{ i }}</a>
+                </li>
+                {% endfor %}
+                {% if page_num < total_pages %}
+                <li class="page-item">
+                    <a class="page-link" href="index{{ page_num + 1 }}.html">
+                        Следующая
+                    </a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+        <div class="row">
+            {% for book in books %}
+            <div class="col-md-6 mb-3">
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="../{{ book.image_path | urlencode }}" class="card-img" alt="{{book.title}}">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{book.title}}</h5>
+                                <p class="card-text">{{book.author}}</p>
+                                {% for book_genre in book.genres %}
+                                    <span class="badge badge-dark">{{book_genre}}</span>
+                                {% endfor %}
+                                <div>
+                                    <a href="../{{ book.text_path | urlencode }}" target="_blank">Читать</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="../static/jquery-3.5.1.slim.min.js" ></script>
+    <script src="../static/bootstrap.bundle.min.js" ></script>
+</body>
+</html>
