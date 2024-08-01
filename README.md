@@ -21,7 +21,11 @@ Python3 должен быть уже установлен. Затем испол
 Выглядит вот так:
 ![img.png](img.png)
 
-Ссылка на сайт: [страница сайта](https://artemzinukov.github.io/library.github.io/pages/index1.html)
+Ссылка на сайт: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index1.html)
+
+
+Также при необходимости вы можете воспользоваться сайтом, открыв его у себя на компьютере,
+файлы находятся в папке pages вашего проекта с названиями index1.html - indexn.html, где n - число страниц.
 
 ## Цель проекта
 
