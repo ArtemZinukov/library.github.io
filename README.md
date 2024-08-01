@@ -19,7 +19,7 @@ Python3 должен быть уже установлен. Затем испол
 ## Рабочий сайт
 
 Выглядит вот так:
-![img.png](img.png)
+![img_1.png](img_1.png)
 
 Ссылка на сайт: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index1.html)
 
