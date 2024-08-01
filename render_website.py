@@ -18,14 +18,10 @@ def create_pages_directory(directory):
 
 
 def load_books():
-    with open("media/books/books_info.json", "r", encoding='utf-8') as file:
+    with open("media/books_info.json", "r", encoding='utf-8') as file:
         books_json = file.read()
     books = json.loads(books_json)
     return books
-
-
-def chunk_books(books, books_per_page):
-    return list(chunked(books, books_per_page))
 
 
 def render_page(page_books, page_num, total_pages):
@@ -42,7 +38,8 @@ def render_page(page_books, page_num, total_pages):
 
 def on_reload():
     books = load_books()
-    chunked_books = chunk_books(books, 20)
+    books_per_page = 20
+    chunked_books = list(chunked(books, books_per_page))
     total_pages = len(chunked_books)
 
     for page_num, page_books in enumerate(chunked_books, start=1):

@@ -4,7 +4,7 @@
         "author": "Донев Антон",
         "img_src": "/shots/19171.jpg",
         "text_path": "books/Алмазный дым.txt",
-        "image_path": "books/Алмазный дым.jpg",
+        "image_path": "images/Алмазный дым.jpg",
         "comments": [
             "Хорошо написано. Держит стиль артура конан дойла. Интересные преступники.",
             "Мне не понравилось, потому что ничего интересного в рассказе не нашла."
@@ -18,7 +18,7 @@
         "author": "Перв Григорий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Алогичные.txt",
-        "image_path": "books/Алогичные.jpg",
+        "image_path": "images/Алогичные.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -29,7 +29,7 @@
         "author": "Арчер Вадим",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Алтарь Василиска (Храм Саламандры - 2).txt",
-        "image_path": "books/Алтарь Василиска (Храм Саламандры - 2).jpg",
+        "image_path": "images/Алтарь Василиска (Храм Саламандры - 2).jpg",
         "comments": [
             "Читается на одном дыхании, классная книга.",
             "Классная книга."
@@ -43,7 +43,7 @@
         "author": "Минков Святослав",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Алхимия любви.txt",
-        "image_path": "books/Алхимия любви.jpg",
+        "image_path": "images/Алхимия любви.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -54,7 +54,7 @@
         "author": "Сташефф Кристофер",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Алхимик и колдунья.txt",
-        "image_path": "books/Алхимик и колдунья.jpg",
+        "image_path": "images/Алхимик и колдунья.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -65,7 +65,7 @@
         "author": "Щербак-Жуков Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Алые паруса - 2.txt",
-        "image_path": "books/Алые паруса - 2.jpg",
+        "image_path": "images/Алые паруса - 2.jpg",
         "comments": [
             "Не история, а очередной сюрреалистический бред. Разочарована донельзя, просто ужасно."
         ],
@@ -78,7 +78,7 @@
         "author": "Клименко Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амальгама миров.txt",
-        "image_path": "books/Амальгама миров.jpg",
+        "image_path": "images/Амальгама миров.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -89,7 +89,7 @@
         "author": "Картер Лин",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амалрик.txt",
-        "image_path": "books/Амалрик.jpg",
+        "image_path": "images/Амалрик.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -100,7 +100,7 @@
         "author": "Диксон Гордон",
         "img_src": "/shots/19189.jpg",
         "text_path": "books/Аманда Морган.txt",
-        "image_path": "books/Аманда Морган.jpg",
+        "image_path": "images/Аманда Морган.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -111,7 +111,7 @@
         "author": "Ютанов Николай",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аманжол.txt",
-        "image_path": "books/Аманжол.jpg",
+        "image_path": "images/Аманжол.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -122,7 +122,7 @@
         "author": "Павлов Сергей Иванович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амазония, япданг Восточный.txt",
-        "image_path": "books/Амазония, япданг Восточный.jpg",
+        "image_path": "images/Амазония, япданг Восточный.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -133,7 +133,7 @@
         "author": "Биксби Джером",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Американская дуэль.txt",
-        "image_path": "books/Американская дуэль.jpg",
+        "image_path": "images/Американская дуэль.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -144,7 +144,7 @@
         "author": "Шоу Боб",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амфитеатр.txt",
-        "image_path": "books/Амфитеатр.jpg",
+        "image_path": "images/Амфитеатр.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -155,7 +155,7 @@
         "author": "Летем Джонатан",
         "img_src": "/shots/19207.jpg",
         "text_path": "books/Амнезия творца.txt",
-        "image_path": "books/Амнезия творца.jpg",
+        "image_path": "images/Амнезия творца.jpg",
         "comments": [
             "Начало не очень, но сюжет очень интересный. Почитать можно, рекомендую."
         ],
@@ -168,7 +168,7 @@
         "author": "Никитин Антон",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амнезия.txt",
-        "image_path": "books/Амнезия.jpg",
+        "image_path": "images/Амнезия.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -179,7 +179,7 @@
         "author": "Батлер Октавия",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амнистия.txt",
-        "image_path": "books/Амнистия.jpg",
+        "image_path": "images/Амнистия.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -190,7 +190,7 @@
         "author": "Лысяк Вальдемар",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ампирный пасьянс.txt",
-        "image_path": "books/Ампирный пасьянс.jpg",
+        "image_path": "images/Ампирный пасьянс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -201,7 +201,7 @@
         "author": "Горбовский Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амплитуда радости.txt",
-        "image_path": "books/Амплитуда радости.jpg",
+        "image_path": "images/Амплитуда радости.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -212,7 +212,7 @@
         "author": "Сергеев Иннокентий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амулькантарат.txt",
-        "image_path": "books/Амулькантарат.jpg",
+        "image_path": "images/Амулькантарат.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -223,7 +223,7 @@
         "author": "Волков Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амулет (Потревоженное проклятие).txt",
-        "image_path": "books/Амулет (Потревоженное проклятие).jpg",
+        "image_path": "images/Амулет (Потревоженное проклятие).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -234,7 +234,7 @@
         "author": "Настрадинова Величка",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Амулет викингов.txt",
-        "image_path": "books/Амулет викингов.jpg",
+        "image_path": "images/Амулет викингов.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -245,7 +245,7 @@
         "author": "Олди Генри Лайон",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анабель-Ли.txt",
-        "image_path": "books/Анабель-Ли.jpg",
+        "image_path": "images/Анабель-Ли.jpg",
         "comments": [
             "По моему у авторов ностальгия по молодости. Рассказ для семнадцатилетних."
         ],
@@ -258,7 +258,7 @@
         "author": "Малышев Эрнст",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анаконда.txt",
-        "image_path": "books/Анаконда.jpg",
+        "image_path": "images/Анаконда.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -269,7 +269,7 @@
         "author": "Туяр А",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анализ.txt",
-        "image_path": "books/Анализ.jpg",
+        "image_path": "images/Анализ.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -280,7 +280,7 @@
         "author": "Найт Дэймон",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аналоги.txt",
-        "image_path": "books/Аналоги.jpg",
+        "image_path": "images/Аналоги.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -291,7 +291,7 @@
         "author": "Лукин Евгений",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аналогичный случай.txt",
-        "image_path": "books/Аналогичный случай.jpg",
+        "image_path": "images/Аналогичный случай.jpg",
         "comments": [
             "Очень короткий, но очень точный рассказ, отражающий наши заблуждения относительно того, что и кто может считаться разумным. Рассказ очень живо и с юмором позволяет нам мгновенно оказаться в роли, противоположной исполненному важности человеку разумному и наконец-то понять, как же все в мире относительно... Особый привет для ксенофобов."
         ],
@@ -304,7 +304,7 @@
         "author": "Емцев М",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аналогия.txt",
-        "image_path": "books/Аналогия.jpg",
+        "image_path": "images/Аналогия.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -315,7 +315,7 @@
         "author": "Чарушников Олег",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ананасы в кадках.txt",
-        "image_path": "books/Ананасы в кадках.jpg",
+        "image_path": "images/Ананасы в кадках.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -326,7 +326,7 @@
         "author": "Нечай Дмитрий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анатомия пришельца.txt",
-        "image_path": "books/Анатомия пришельца.jpg",
+        "image_path": "images/Анатомия пришельца.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -337,7 +337,7 @@
         "author": "Беньковский Виктор",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анахрон (книга первая).txt",
-        "image_path": "books/Анахрон (книга первая).jpg",
+        "image_path": "images/Анахрон (книга первая).jpg",
         "comments": [
             "Сказать честно, ожидал чего-то более интересного. На сказку точно не тянет! Концовка скомкана, герой не такой уж и положительный.. Как отец вообще-0. Хотя книга сначала захватывает!"
         ],
@@ -350,7 +350,7 @@
         "author": "Беньковский Виктор",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анахрон (книга вторая).txt",
-        "image_path": "books/Анахрон (книга вторая).jpg",
+        "image_path": "images/Анахрон (книга вторая).jpg",
         "comments": [
             "Поразила чистотой стиля и прекрасным юмором! Отличная книга! Скачиваю вторую часть и не могу сдержаться, чтобы сразу приступить к чтению!"
         ],
@@ -363,7 +363,7 @@
         "author": "Беньковский Виктор",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анахрон.txt",
-        "image_path": "books/Анахрон.jpg",
+        "image_path": "images/Анахрон.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -374,7 +374,7 @@
         "author": "Беньковский Виктор",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анахрон 2.txt",
-        "image_path": "books/Анахрон 2.jpg",
+        "image_path": "images/Анахрон 2.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -385,7 +385,7 @@
         "author": "Мазова Наталия",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Андорэ и Эстелин, или Во дворце опять измена.txt",
-        "image_path": "books/Андорэ и Эстелин, или Во дворце опять измена.jpg",
+        "image_path": "images/Андорэ и Эстелин, или Во дворце опять измена.jpg",
         "comments": [
             "Супер книга! Всем советую прочитать! Respect автору! Мне очень понравилось, прочитала на одном духу! 31 страница, а сколько эмоций! Спасибки за книгу!!! :-) ;-)"
         ],
@@ -398,7 +398,7 @@
         "author": "Нестеренко Юрий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анекдоты про Майкрософт.txt",
-        "image_path": "books/Анекдоты про Майкрософт.jpg",
+        "image_path": "images/Анекдоты про Майкрософт.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -409,7 +409,7 @@
         "author": "Ершов Юрий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анекдоты про телевизионную игру Последний герой.txt",
-        "image_path": "books/Анекдоты про телевизионную игру Последний герой.jpg",
+        "image_path": "images/Анекдоты про телевизионную игру Последний герой.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -420,7 +420,7 @@
         "author": "Желязны Роджер",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел, темный ангел.txt",
-        "image_path": "books/Ангел, темный ангел.jpg",
+        "image_path": "images/Ангел, темный ангел.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -431,7 +431,7 @@
         "author": "Моисеев Юрий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел-эхо.txt",
-        "image_path": "books/Ангел-эхо.jpg",
+        "image_path": "images/Ангел-эхо.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -442,7 +442,7 @@
         "author": "Харитонов Михаил",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангельс.txt",
-        "image_path": "books/Ангельс.jpg",
+        "image_path": "images/Ангельс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -453,7 +453,7 @@
         "author": "Петухов Юрий",
         "img_src": "/shots/19254.jpg",
         "text_path": "books/Ангел Возмездия.txt",
-        "image_path": "books/Ангел Возмездия.jpg",
+        "image_path": "images/Ангел Возмездия.jpg",
         "comments": [
             "еще одна часть звезной мести",
             "Петухов Ю, скучно писать не умеет.",
@@ -473,7 +473,7 @@
         "author": "Сыч Евгений",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел гибели.txt",
-        "image_path": "books/Ангел гибели.jpg",
+        "image_path": "images/Ангел гибели.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -484,7 +484,7 @@
         "author": "Ипатова Наталия",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел по контракту (Большое драконье приключение - 3).txt",
-        "image_path": "books/Ангел по контракту (Большое драконье приключение - 3).jpg",
+        "image_path": "images/Ангел по контракту (Большое драконье приключение - 3).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -495,7 +495,7 @@
         "author": "Черри Кэролайн",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел с мечом.txt",
-        "image_path": "books/Ангел с мечом.jpg",
+        "image_path": "images/Ангел с мечом.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -506,7 +506,7 @@
         "author": "Видар Гарм",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангел в аду.txt",
-        "image_path": "books/Ангел в аду.jpg",
+        "image_path": "images/Ангел в аду.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -517,7 +517,7 @@
         "author": "Килуэрт Гарри",
         "img_src": "/shots/19265.jpg",
         "text_path": "books/Ангел.txt",
-        "image_path": "books/Ангел.jpg",
+        "image_path": "images/Ангел.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -528,7 +528,7 @@
         "author": "Гроув Уильям",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелочек Джона Гранта.txt",
-        "image_path": "books/Ангелочек Джона Гранта.jpg",
+        "image_path": "images/Ангелочек Джона Гранта.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -539,7 +539,7 @@
         "author": "Дымов Дмитрий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелок.txt",
-        "image_path": "books/Ангелок.jpg",
+        "image_path": "images/Ангелок.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -550,7 +550,7 @@
         "author": "Ворон Елена",
         "img_src": "/shots/19269.jpg",
         "text_path": "books/Ангелы-хранители работают без выходных.txt",
-        "image_path": "books/Ангелы-хранители работают без выходных.jpg",
+        "image_path": "images/Ангелы-хранители работают без выходных.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -561,7 +561,7 @@
         "author": "Биссон Терри",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелы Чарли.txt",
-        "image_path": "books/Ангелы Чарли.jpg",
+        "image_path": "images/Ангелы Чарли.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -572,7 +572,7 @@
         "author": "Павлов Сергей Иванович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелы мопя.txt",
-        "image_path": "books/Ангелы мопя.jpg",
+        "image_path": "images/Ангелы мопя.jpg",
         "comments": [
             "Отличная книга, но \"Чердак вселенной\" лучше!"
         ],
@@ -585,7 +585,7 @@
         "author": "Фирсов Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелы неба.txt",
-        "image_path": "books/Ангелы неба.jpg",
+        "image_path": "images/Ангелы неба.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -596,7 +596,7 @@
         "author": "Биксби Джером",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангелы в ракетах.txt",
-        "image_path": "books/Ангелы в ракетах.jpg",
+        "image_path": "images/Ангелы в ракетах.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -607,7 +607,7 @@
         "author": "Шейнин Аскольд Львович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ангевозм.txt",
-        "image_path": "books/Ангевозм.jpg",
+        "image_path": "images/Ангевозм.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -618,7 +618,7 @@
         "author": "Смирнов Герман",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Английская разведка вывезла Бормана из горящего Берлина.txt",
-        "image_path": "books/Английская разведка вывезла Бормана из горящего Берлина.jpg",
+        "image_path": "images/Английская разведка вывезла Бормана из горящего Берлина.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -629,7 +629,7 @@
         "author": "Чертков Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анизотропное шоссе.txt",
-        "image_path": "books/Анизотропное шоссе.jpg",
+        "image_path": "images/Анизотропное шоссе.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -640,7 +640,7 @@
         "author": "Агеев Леонид",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анюта.txt",
-        "image_path": "books/Анюта.jpg",
+        "image_path": "images/Анюта.jpg",
         "comments": [
             "Всегда хотела себе робота. Интересное произведение, хоть и небольшое."
         ],
@@ -653,7 +653,7 @@
         "author": "Вейо Клод",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анклав.txt",
-        "image_path": "books/Анклав.jpg",
+        "image_path": "images/Анклав.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -664,7 +664,7 @@
         "author": "Франке Герберт В",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Анклавы.txt",
-        "image_path": "books/Анклавы.jpg",
+        "image_path": "images/Анклавы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -675,7 +675,7 @@
         "author": "Михалков Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аннотации на произведения Сергея Михайлова.txt",
-        "image_path": "books/Аннотации на произведения Сергея Михайлова.jpg",
+        "image_path": "images/Аннотации на произведения Сергея Михайлова.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -686,7 +686,7 @@
         "author": "Иванович Савченко Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аннотация сериала ВСЕЛЯНЕ.txt",
-        "image_path": "books/Аннотация сериала ВСЕЛЯНЕ.jpg",
+        "image_path": "images/Аннотация сериала ВСЕЛЯНЕ.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика",
@@ -698,7 +698,7 @@
         "author": "Кунц Дин Рэй",
         "img_src": "/shots/19304.jpg",
         "text_path": "books/Античеловек.txt",
-        "image_path": "books/Античеловек.jpg",
+        "image_path": "images/Античеловек.jpg",
         "comments": [
             "Недавно закончил читать. Книжка на мой взгляд глуповатая. Напоминает чем то беляевские романы, которые я читал в детстве. А один момент был особенно глупый. Когда солдаты мирового правительства не стали обыскивать хижину после захвата главного героя и убийства этого долбанного двойника андроида. Это же логично. Человек пронырлив с детства. Ну и концовочка подкачала с глупостями. А так книга захватывает. Вобщем на троечку...",
             "Glupovata soglasen, daje ne hocetsa docitati, ne stoit."
@@ -712,7 +712,7 @@
         "author": "Фосетт П Г",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Античный город в Южной Америке.txt",
-        "image_path": "books/Античный город в Южной Америке.jpg",
+        "image_path": "images/Античный город в Южной Америке.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -723,7 +723,7 @@
         "author": "Стрельченко Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Антифобин.txt",
-        "image_path": "books/Антифобин.jpg",
+        "image_path": "images/Антифобин.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -734,7 +734,7 @@
         "author": "Балабуха Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Антигравитатор Элькинда.txt",
-        "image_path": "books/Антигравитатор Элькинда.jpg",
+        "image_path": "images/Антигравитатор Элькинда.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -745,7 +745,7 @@
         "author": "Борунь Кшиштоф",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Антимир.txt",
-        "image_path": "books/Антимир.jpg",
+        "image_path": "images/Антимир.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -756,7 +756,7 @@
         "author": "Дубинина Анастасия",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Антиохийский священник.txt",
-        "image_path": "books/Антиохийский священник.jpg",
+        "image_path": "images/Антиохийский священник.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -767,7 +767,7 @@
         "author": "Алдани Лино",
         "img_src": "/shots/19317.jpg",
         "text_path": "books/Антология фантастических рассказов. Том 5.txt",
-        "image_path": "books/Антология фантастических рассказов. Том 5.jpg",
+        "image_path": "images/Антология фантастических рассказов. Том 5.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -778,7 +778,7 @@
         "author": "Пристли Джон Бойнтон",
         "img_src": "/shots/19318.jpg",
         "text_path": "books/Антология сказочной фантастики.txt",
-        "image_path": "books/Антология сказочной фантастики.jpg",
+        "image_path": "images/Антология сказочной фантастики.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -789,7 +789,7 @@
         "author": "Биленкин Дмитрий",
         "img_src": "/shots/19319.jpg",
         "text_path": "books/Антология советской фантастики - 2.txt",
-        "image_path": "books/Антология советской фантастики - 2.jpg",
+        "image_path": "images/Антология советской фантастики - 2.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -800,7 +800,7 @@
         "author": "Вежинов Павел",
         "img_src": "/shots/19320.jpg",
         "text_path": "books/Антология.txt",
-        "image_path": "books/Антология.jpg",
+        "image_path": "images/Антология.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -811,7 +811,7 @@
         "author": "Фармер Филип Жозе",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2).txt",
-        "image_path": "books/Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2).jpg",
+        "image_path": "images/Апофеоз, или Зарисовки на руинах моего сознания (Экзорцизм - 2).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -822,7 +822,7 @@
         "author": "Первушин Антон",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апокалипсис сегодня.txt",
-        "image_path": "books/Апокалипсис сегодня.jpg",
+        "image_path": "images/Апокалипсис сегодня.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -833,7 +833,7 @@
         "author": "Разумов Илья",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апокалипсис 2035.txt",
-        "image_path": "books/Апокалипсис 2035.jpg",
+        "image_path": "images/Апокалипсис 2035.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -844,7 +844,7 @@
         "author": "Бодров Виталий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апокрифы.txt",
-        "image_path": "books/Апокрифы.jpg",
+        "image_path": "images/Апокрифы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -855,7 +855,7 @@
         "author": "Харитонов Михаил",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аполлон-11.txt",
-        "image_path": "books/Аполлон-11.jpg",
+        "image_path": "images/Аполлон-11.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -866,7 +866,7 @@
         "author": "Гор Геннадий",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аппарат Аристотеля.txt",
-        "image_path": "books/Аппарат Аристотеля.jpg",
+        "image_path": "images/Аппарат Аристотеля.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -877,7 +877,7 @@
         "author": "Балабуха Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аппендикс.txt",
-        "image_path": "books/Аппендикс.jpg",
+        "image_path": "images/Аппендикс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -888,7 +888,7 @@
         "author": "Торин Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апрельские Тезисы (Из дневников домовладельца).txt",
-        "image_path": "books/Апрельские Тезисы (Из дневников домовладельца).jpg",
+        "image_path": "images/Апрельские Тезисы (Из дневников домовладельца).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -899,7 +899,7 @@
         "author": "Абрамов Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апробация.txt",
-        "image_path": "books/Апробация.jpg",
+        "image_path": "images/Апробация.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -910,7 +910,7 @@
         "author": "Марков Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Апсу.txt",
-        "image_path": "books/Апсу.jpg",
+        "image_path": "images/Апсу.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -921,7 +921,7 @@
         "author": "Симонян Карен",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аптекарь Нерсес Мажан.txt",
-        "image_path": "books/Аптекарь Нерсес Мажан.jpg",
+        "image_path": "images/Аптекарь Нерсес Мажан.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -932,7 +932,7 @@
         "author": "Сейлор М",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аранья мексиканских болот.txt",
-        "image_path": "books/Аранья мексиканских болот.jpg",
+        "image_path": "images/Аранья мексиканских болот.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -943,7 +943,7 @@
         "author": "Дэвидсон Эйв",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арахисы.txt",
-        "image_path": "books/Арахисы.jpg",
+        "image_path": "images/Арахисы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -954,7 +954,7 @@
         "author": "Лапин Борис Федорович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арбузная корочка.txt",
-        "image_path": "books/Арбузная корочка.jpg",
+        "image_path": "images/Арбузная корочка.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -965,7 +965,7 @@
         "author": "Евтушенко Евгений Александрович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ардабиола.txt",
-        "image_path": "books/Ардабиола.jpg",
+        "image_path": "images/Ардабиола.jpg",
         "comments": [
             "Я защищала диплом в 1984 году на художественно-графическом факультете педагогического института. Тема диплома была: серия графических работ к произведению Евтушенко \"АРДАБИОЛА\". К сожалению потеряла текст, напечатанный в журнале \"Юность\". С большим удовольствием перечитала эту повесть. Нескончаемо близко содержание."
         ],
@@ -978,7 +978,7 @@
         "author": "Елена Горелик",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арес - бог войны.txt",
-        "image_path": "books/Арес - бог войны.jpg",
+        "image_path": "images/Арес - бог войны.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -989,7 +989,7 @@
         "author": "Харитонов Михаил",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арест.txt",
-        "image_path": "books/Арест.jpg",
+        "image_path": "images/Арест.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1000,7 +1000,7 @@
         "author": "Фьюри Мэгги",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арфа ветров (Талисманы власти - 2).txt",
-        "image_path": "books/Арфа ветров (Талисманы власти - 2).jpg",
+        "image_path": "images/Арфа ветров (Талисманы власти - 2).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1011,7 +1011,7 @@
         "author": "Маккиллип Патриция",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арфист на ветру (Мастер загадок - 3).txt",
-        "image_path": "books/Арфист на ветру (Мастер загадок - 3).jpg",
+        "image_path": "images/Арфист на ветру (Мастер загадок - 3).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1022,7 +1022,7 @@
         "author": "Владко Владимир Николаевич",
         "img_src": "/shots/19354.jpg",
         "text_path": "books/Аргонавты вселенной.txt",
-        "image_path": "books/Аргонавты вселенной.jpg",
+        "image_path": "images/Аргонавты вселенной.jpg",
         "comments": [
             "Читал в молодостилет 35 назад, тогда понравилось.Что-то между Беляевым и ранними Стругацкими.",
             "Вот и я читал в дикой молодости. Хочется хоть на мгновенье вернуться в прекрасное прошлое.",
@@ -1037,7 +1037,7 @@
         "author": "Блиш Джеймс",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аргументы совести.txt",
-        "image_path": "books/Аргументы совести.jpg",
+        "image_path": "images/Аргументы совести.jpg",
         "comments": [
             "Блистательный рассказ с ошеломляющим финалом. Почему такие замечательные писатели покидают мир так рано? Своим творчеством они могут изменить людей к лучшему. Этот рассказ-яркое подтверждение."
         ],
@@ -1050,7 +1050,7 @@
         "author": "Якубовский Аскольд Павлович",
         "img_src": "/shots/19356.jpg",
         "text_path": "books/Аргус-12 (Космический блюститель).txt",
-        "image_path": "books/Аргус-12 (Космический блюститель).jpg",
+        "image_path": "images/Аргус-12 (Космический блюститель).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1061,7 +1061,7 @@
         "author": "Де Камп Лион",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аристотель и оружие.txt",
-        "image_path": "books/Аристотель и оружие.jpg",
+        "image_path": "images/Аристотель и оружие.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1072,7 +1072,7 @@
         "author": "Казанцев Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арктический мост.txt",
-        "image_path": "books/Арктический мост.jpg",
+        "image_path": "images/Арктический мост.jpg",
         "comments": [
             "КНИГА, КОНЕЧНО, УСТАРЕЛАЯ, НО ПО ТЕМ ВРЕМЕНАМ, УЧИЛА ТОГДАШНИХ ПОДРОСТКОВ МОРАЛЬНЫМ ЦЕННОСТЯМ, КОТОРЫХ НАМ СЕЙЧАС ТАК НЕ ХВАТАЕТ!"
         ],
@@ -1085,7 +1085,7 @@
         "author": "Аарх Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арлекино и Пьеро.txt",
-        "image_path": "books/Арлекино и Пьеро.jpg",
+        "image_path": "images/Арлекино и Пьеро.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1096,7 +1096,7 @@
         "author": "Измайлов Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Арма.txt",
-        "image_path": "books/Арма.jpg",
+        "image_path": "images/Арма.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1107,7 +1107,7 @@
         "author": "Мёрдок Мелинда С.",
         "img_src": "/shots/19372.jpg",
         "text_path": "books/Армагеддон у Весты.txt",
-        "image_path": "books/Армагеддон у Весты.jpg",
+        "image_path": "images/Армагеддон у Весты.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1118,7 +1118,7 @@
         "author": "Уэллс Герберт Джордж",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Армагеддон.txt",
-        "image_path": "books/Армагеддон.jpg",
+        "image_path": "images/Армагеддон.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1129,7 +1129,7 @@
         "author": "Дедюхова Ирина",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Армагеддон No 3.txt",
-        "image_path": "books/Армагеддон No 3.jpg",
+        "image_path": "images/Армагеддон No 3.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1140,7 +1140,7 @@
         "author": "Силаев Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Армия Гутэнтака.txt",
-        "image_path": "books/Армия Гутэнтака.jpg",
+        "image_path": "images/Армия Гутэнтака.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1151,7 +1151,7 @@
         "author": "Мынэскуртэ Ион",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аромат возвращений.txt",
-        "image_path": "books/Аромат возвращений.jpg",
+        "image_path": "images/Аромат возвращений.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1162,7 +1162,7 @@
         "author": "Мандалян Элеонора",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аропс.txt",
-        "image_path": "books/Аропс.jpg",
+        "image_path": "images/Аропс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1173,7 +1173,7 @@
         "author": "Жемайтис Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Артаксеркс.txt",
-        "image_path": "books/Артаксеркс.jpg",
+        "image_path": "images/Артаксеркс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1184,7 +1184,7 @@
         "author": "Гир Майкл",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Артефакт (Испепеляющий разум).txt",
-        "image_path": "books/Артефакт (Испепеляющий разум).jpg",
+        "image_path": "images/Артефакт (Испепеляющий разум).jpg",
         "comments": [
             "Прочитала книгу с удовольствием, люблю фантастику и детективы-как раз здесь и соединились эти 2 жанра. Хорошо прорисованы характеры, одним сопереживаешь, другими восхищаешься, третьих презираешь. Мне очень симпатичен умный корабль, о таком друге только мечтать. Кто любит названные выше жанры рекомендую."
         ],
@@ -1197,7 +1197,7 @@
         "author": "Тарабанов Дмитрий",
         "img_src": "/shots/19386.jpg",
         "text_path": "books/Артефакт.txt",
-        "image_path": "books/Артефакт.jpg",
+        "image_path": "images/Артефакт.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1208,7 +1208,7 @@
         "author": "Силверберг Роберт",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Археологические находки.txt",
-        "image_path": "books/Археологические находки.jpg",
+        "image_path": "images/Археологические находки.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1219,7 +1219,7 @@
         "author": "Бояндин Константин",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Архитектор (3).txt",
-        "image_path": "books/Архитектор (3).jpg",
+        "image_path": "images/Архитектор (3).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1230,7 +1230,7 @@
         "author": "Бояндин Константин",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Архитектор.txt",
-        "image_path": "books/Архитектор.jpg",
+        "image_path": "images/Архитектор.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1241,7 +1241,7 @@
         "author": "Щербаков Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Асгард - город богов (история открытия).txt",
-        "image_path": "books/Асгард - город богов (история открытия).jpg",
+        "image_path": "images/Асгард - город богов (история открытия).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1252,7 +1252,7 @@
         "author": "Башкиров Михаил",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астероид Утиль Ужас.txt",
-        "image_path": "books/Астероид Утиль Ужас.jpg",
+        "image_path": "images/Астероид Утиль Ужас.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1263,7 +1263,7 @@
         "author": "Фролова Маргарита",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астероид Spiritus Vini.txt",
-        "image_path": "books/Астероид Spiritus Vini.jpg",
+        "image_path": "images/Астероид Spiritus Vini.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1274,7 +1274,7 @@
         "author": "Корчагин Владимир",
         "img_src": "/shots/19409.jpg",
         "text_path": "books/Астийский Эдельвейс. Научно-фантастический роман.txt",
-        "image_path": "books/Астийский Эдельвейс. Научно-фантастический роман.jpg",
+        "image_path": "images/Астийский Эдельвейс. Научно-фантастический роман.jpg",
         "comments": [
             "Отлично на 5.",
             "Давно в детстве читал эту книгу. Потом она была утрачена и только сейчас я её нашоол. Большое спасибо!",
@@ -1289,7 +1289,7 @@
         "author": "Корчагин Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астийский эдельвейс.txt",
-        "image_path": "books/Астийский эдельвейс.jpg",
+        "image_path": "images/Астийский эдельвейс.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1300,7 +1300,7 @@
         "author": "Соло Всеслав",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2).txt",
-        "image_path": "books/Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2).jpg",
+        "image_path": "images/Астральное тело-2, Изида или Врата Святилища (Как стать магом - 2).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1311,7 +1311,7 @@
         "author": "Хайнлайн Роберт",
         "img_src": "/shots/19414.jpg",
         "text_path": "books/Астронавт Джонс.txt",
-        "image_path": "books/Астронавт Джонс.jpg",
+        "image_path": "images/Астронавт Джонс.jpg",
         "comments": [
             "Очень интересная книга. Особенно тогда, когда Джонс спасает корабль. Советую все почитать.",
             "Книга очень понравилась, захватила.",
@@ -1329,7 +1329,7 @@
         "author": "Журавлева Валентина",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астронавт.txt",
-        "image_path": "books/Астронавт.jpg",
+        "image_path": "images/Астронавт.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1340,7 +1340,7 @@
         "author": "Шоу Боб",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астронавты в лохмотьях (Мир и Верхний Мир - 1).txt",
-        "image_path": "books/Астронавты в лохмотьях (Мир и Верхний Мир - 1).jpg",
+        "image_path": "images/Астронавты в лохмотьях (Мир и Верхний Мир - 1).jpg",
         "comments": [
             "Талантливая, последовательная, умная классика, захватывает и тянет читать дальше и дальше."
         ],
@@ -1353,7 +1353,7 @@
         "author": "Шоу Боб",
         "img_src": "/shots/19417.jpg",
         "text_path": "books/Астронавты в лохмотьях.txt",
-        "image_path": "books/Астронавты в лохмотьях.jpg",
+        "image_path": "images/Астронавты в лохмотьях.jpg",
         "comments": [
             "Замечательная, захватывающая книга! Начав читать оторваться невозможно!",
             "Шикарная вещица, всем любителям фэнтези рекомендую, без картона и роялей книга старого закалённого пером фантаста."
@@ -1367,7 +1367,7 @@
         "author": "Осинский Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Астропилот Ронг Третий.txt",
-        "image_path": "books/Астропилот Ронг Третий.jpg",
+        "image_path": "images/Астропилот Ронг Третий.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1378,7 +1378,7 @@
         "author": "Гайль Отто Вилли",
         "img_src": "/shots/19421.jpg",
         "text_path": "books/Астрополис.txt",
-        "image_path": "books/Астрополис.jpg",
+        "image_path": "images/Астрополис.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1389,7 +1389,7 @@
         "author": "Кейт Уильям",
         "img_src": "/shots/19423.jpg",
         "text_path": "books/Атака Боло.txt",
-        "image_path": "books/Атака Боло.jpg",
+        "image_path": "images/Атака Боло.jpg",
         "comments": [
             "Наверное, серия найдет своего читателя. Мое мнение - это не литература, это - схема, причем не лучшего качества...",
             "Ну не знаю. Мне очень понравилось! Проглотил эту книгу и еще перед этим прочел рассказ Боло. На одном дыхании. Очень рекомендую для любителей научной фантастики!!!",
@@ -1405,7 +1405,7 @@
         "author": "Беньковский Виктор",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атаульф.txt",
-        "image_path": "books/Атаульф.jpg",
+        "image_path": "images/Атаульф.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1416,7 +1416,7 @@
         "author": "Мариновский Иван",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атавизм.txt",
-        "image_path": "books/Атавизм.jpg",
+        "image_path": "images/Атавизм.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1427,7 +1427,7 @@
         "author": "Дорофеев Сергей (Дорофф)",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атеист.txt",
-        "image_path": "books/Атеист.jpg",
+        "image_path": "images/Атеист.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1438,7 +1438,7 @@
         "author": "Грушко Елена",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атенаора Меттер Порфирола.txt",
-        "image_path": "books/Атенаора Меттер Порфирола.jpg",
+        "image_path": "images/Атенаора Меттер Порфирола.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1449,7 +1449,7 @@
         "author": "Браст Стивен",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атира (Влад Талтош - 6).txt",
-        "image_path": "books/Атира (Влад Талтош - 6).jpg",
+        "image_path": "images/Атира (Влад Талтош - 6).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1460,7 +1460,7 @@
         "author": "Мистер Алекс",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атлантида Сумрачного Солнца.txt",
-        "image_path": "books/Атлантида Сумрачного Солнца.jpg",
+        "image_path": "images/Атлантида Сумрачного Солнца.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1471,7 +1471,7 @@
         "author": "Парнов Еремей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атлантида в наших мечтах.txt",
-        "image_path": "books/Атлантида в наших мечтах.jpg",
+        "image_path": "images/Атлантида в наших мечтах.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1482,7 +1482,7 @@
         "author": "Струнина Мария",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атлантида.txt",
-        "image_path": "books/Атлантида.jpg",
+        "image_path": "images/Атлантида.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1493,7 +1493,7 @@
         "author": "Коуль Дж",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атланты, Кутгар.txt",
-        "image_path": "books/Атланты, Кутгар.jpg",
+        "image_path": "images/Атланты, Кутгар.jpg",
         "comments": [
             "Являюсь давним поклонником Колосова. Перечитал воина раз десять. Изумляет знание истории и прекрасный язык которым написаны книги.",
             "Невероятная история человечества. Новый взгляд на Мир. Здорово интересно."
@@ -1507,7 +1507,7 @@
         "author": "Коуль Дж",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атланты, Воин.txt",
-        "image_path": "books/Атланты, Воин.jpg",
+        "image_path": "images/Атланты, Воин.jpg",
         "comments": [
             "Советую всем, очень интересный взгляд на мир!",
             "Это действительно очень интересный взгляд на мир! Книга не просто заставляет думать... Она ещё и побуждает читать дополнительную литературу... Вникать в смысл событий... Это просто пособие для современных политтехнологов! :-))))"
@@ -1521,7 +1521,7 @@
         "author": "Щербаков Владимир",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Атланты, боги и великаны.txt",
-        "image_path": "books/Атланты, боги и великаны.jpg",
+        "image_path": "images/Атланты, боги и великаны.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1532,7 +1532,7 @@
         "author": "Лэрд Дж",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аттила (Ричард Блейд, странствие 22).txt",
-        "image_path": "books/Аттила (Ричард Блейд, странствие 22).jpg",
+        "image_path": "images/Аттила (Ричард Блейд, странствие 22).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1543,7 +1543,7 @@
         "author": "Штейнмюллер Карл-Хайнц",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аудиенция.txt",
-        "image_path": "books/Аудиенция.jpg",
+        "image_path": "images/Аудиенция.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1554,7 +1554,7 @@
         "author": "Сагабалян Руслан",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аукцион.txt",
-        "image_path": "books/Аукцион.jpg",
+        "image_path": "images/Аукцион.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1565,7 +1565,7 @@
         "author": "Дмитрук Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аурентина (Летящая - 1).txt",
-        "image_path": "books/Аурентина (Летящая - 1).jpg",
+        "image_path": "images/Аурентина (Летящая - 1).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1576,7 +1576,7 @@
         "author": "Берковец Иржи",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аутосонидо.txt",
-        "image_path": "books/Аутосонидо.jpg",
+        "image_path": "images/Аутосонидо.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1587,7 +1587,7 @@
         "author": "Бабенко Виталий",
         "img_src": "/shots/19464.jpg",
         "text_path": "books/Авангардист.txt",
-        "image_path": "books/Авангардист.jpg",
+        "image_path": "images/Авангардист.jpg",
         "comments": [
             "Мне очень понравился сборник Бабенко (куда в том числе и вошел рассказ авангардист).\nРассказы написаны, легко и с юмором. Но главное их достоинство не в этом, но в том, что они дают пищу для рамышлений",
             "Это образец настоящей фантастики: развлечение и интеллектуальное обогащение в одном флаконе... Т. Е. Сборнике!"
@@ -1601,7 +1601,7 @@
         "author": "Златаров Святозар",
         "img_src": "/shots/19465.jpg",
         "text_path": "books/Аванпост.txt",
-        "image_path": "books/Аванпост.jpg",
+        "image_path": "images/Аванпост.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1612,7 +1612,7 @@
         "author": "Росоховатский Игорь",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Авария Серебряной стрелы.txt",
-        "image_path": "books/Авария Серебряной стрелы.jpg",
+        "image_path": "images/Авария Серебряной стрелы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1623,7 +1623,7 @@
         "author": "Андерсон Пол",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аватара.txt",
-        "image_path": "books/Аватара.jpg",
+        "image_path": "images/Аватара.jpg",
         "comments": [
             "Книга супер. Раньше читал и еще хочу."
         ],
@@ -1636,7 +1636,7 @@
         "author": "Каттнер Генри",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Авессалом.txt",
-        "image_path": "books/Авессалом.jpg",
+        "image_path": "images/Авессалом.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1647,7 +1647,7 @@
         "author": "Маркелова Н",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Авось !!.txt",
-        "image_path": "books/Авось !!.jpg",
+        "image_path": "images/Авось !!.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1658,7 +1658,7 @@
         "author": "Маркеев Олег",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Австралийский газонокосильщик.txt",
-        "image_path": "books/Австралийский газонокосильщик.jpg",
+        "image_path": "images/Австралийский газонокосильщик.jpg",
         "comments": [
             "DAs ist ein echte Schriftschreiber!!! Danke! Respekt!"
         ],
@@ -1671,7 +1671,7 @@
         "author": "Овчинников Олег",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автобиография.txt",
-        "image_path": "books/Автобиография.jpg",
+        "image_path": "images/Автобиография.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1682,7 +1682,7 @@
         "author": "Калабухин Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автограф Гагарина.txt",
-        "image_path": "books/Автограф Гагарина.jpg",
+        "image_path": "images/Автограф Гагарина.jpg",
         "comments": [
             "Прелесть! Всего Вам самого хорошего.И удачи, конечно."
         ],
@@ -1695,7 +1695,7 @@
         "author": "Варшавский Илья",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автомат.txt",
-        "image_path": "books/Автомат.jpg",
+        "image_path": "images/Автомат.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1706,7 +1706,7 @@
         "author": "Даль Роальд",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автоматический сочинитель.txt",
-        "image_path": "books/Автоматический сочинитель.jpg",
+        "image_path": "images/Автоматический сочинитель.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1717,7 +1717,7 @@
         "author": "Рид Кит",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автоматический тигр.txt",
-        "image_path": "books/Автоматический тигр.jpg",
+        "image_path": "images/Автоматический тигр.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1728,7 +1728,7 @@
         "author": "Вулф Том",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автоматизированный отель.txt",
-        "image_path": "books/Автоматизированный отель.jpg",
+        "image_path": "images/Автоматизированный отель.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1739,7 +1739,7 @@
         "author": "Буццати Дино",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автомобильная чума.txt",
-        "image_path": "books/Автомобильная чума.jpg",
+        "image_path": "images/Автомобильная чума.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1750,7 +1750,7 @@
         "author": "Мазин Александр Владимирович",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автор, консультант, редактор, корректор или интимный процесс творчества.txt",
-        "image_path": "books/Автор, консультант, редактор, корректор или интимный процесс творчества.jpg",
+        "image_path": "images/Автор, консультант, редактор, корректор или интимный процесс творчества.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1761,7 +1761,7 @@
         "author": "Гейман Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автор о себе.txt",
-        "image_path": "books/Автор о себе.jpg",
+        "image_path": "images/Автор о себе.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1772,7 +1772,7 @@
         "author": "Ле Гуин Урсула",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автор семян акации.txt",
-        "image_path": "books/Автор семян акации.jpg",
+        "image_path": "images/Автор семян акации.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1783,7 +1783,7 @@
         "author": "Вольский Марчин",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Авторский вариант.txt",
-        "image_path": "books/Авторский вариант.jpg",
+        "image_path": "images/Авторский вариант.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1794,7 +1794,7 @@
         "author": "Берендеев Кирилл",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Авторское послесловие к мини-серии Немного об Идущих во Тьму.txt",
-        "image_path": "books/Авторское послесловие к мини-серии Немного об Идущих во Тьму.jpg",
+        "image_path": "images/Авторское послесловие к мини-серии Немного об Идущих во Тьму.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1805,7 +1805,7 @@
         "author": "Ченси Джон де",
         "img_src": "/shots/19504.jpg",
         "text_path": "books/Автострада запредельности.txt",
-        "image_path": "books/Автострада запредельности.jpg",
+        "image_path": "images/Автострада запредельности.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1816,7 +1816,7 @@
         "author": "Либенци Эрманно",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Автозавры.txt",
-        "image_path": "books/Автозавры.jpg",
+        "image_path": "images/Автозавры.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1827,7 +1827,7 @@
         "author": "Азимов Айзек",
         "img_src": "/shots/19506.jpg",
         "text_path": "books/Ах, Баттен, Баттен! (Баттон, Баттон).txt",
-        "image_path": "books/Ах, Баттен, Баттен! (Баттон, Баттон).jpg",
+        "image_path": "images/Ах, Баттен, Баттен! (Баттон, Баттон).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1838,7 +1838,7 @@
         "author": "Плонский Александр",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ах, если бы.txt",
-        "image_path": "books/Ах, если бы.jpg",
+        "image_path": "images/Ах, если бы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1849,7 +1849,7 @@
         "author": "Матесон Ричард",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ах, эта Джулия !.txt",
-        "image_path": "books/Ах, эта Джулия !.jpg",
+        "image_path": "images/Ах, эта Джулия !.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1860,7 +1860,7 @@
         "author": "Михайличенко Елизавета",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Ахматовская культура или Не ложи мне на уши пасту !.txt",
-        "image_path": "books/Ахматовская культура или Не ложи мне на уши пасту !.jpg",
+        "image_path": "images/Ахматовская культура или Не ложи мне на уши пасту !.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1871,7 +1871,7 @@
         "author": "Стульник Сергей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Аз победиши или Между землёй и небом - война.txt",
-        "image_path": "books/Аз победиши или Между землёй и небом - война.jpg",
+        "image_path": "images/Аз победиши или Между землёй и небом - война.jpg",
         "comments": [
             "Полная бредня. Автор видимо применял психостимуляторы в процессе написания этой галиматьи."
         ],
@@ -1884,7 +1884,7 @@
         "author": "Симонова Мария",
         "img_src": "/shots/19517.jpg",
         "text_path": "books/Азартные игры высшего порядка.txt",
-        "image_path": "books/Азартные игры высшего порядка.jpg",
+        "image_path": "images/Азартные игры высшего порядка.jpg",
         "comments": [
             "Фантастическая фантастика, я такого не ожидал!!!",
             "У нее все поизведения хорошие. Читаются легко и не напрягают.",
@@ -1903,7 +1903,7 @@
         "author": "Берендеев Кирилл",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Азатот.txt",
-        "image_path": "books/Азатот.jpg",
+        "image_path": "images/Азатот.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1914,7 +1914,7 @@
         "author": "Азимов Айзек",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Азазел (рассказы) (-).txt",
-        "image_path": "books/Азазел (рассказы) (-).jpg",
+        "image_path": "images/Азазел (рассказы) (-).jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1925,7 +1925,7 @@
         "author": "Азимов Айзек",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Азазел (рассказы).txt",
-        "image_path": "books/Азазел (рассказы).jpg",
+        "image_path": "images/Азазел (рассказы).jpg",
         "comments": [
             "Довольно забавное повествование, стиль изложения чем-то напомнил О`Генри и некоторые рассказы Эдгара По."
         ],
@@ -1938,7 +1938,7 @@
         "author": "Диш Томас М",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Азиатский берег.txt",
-        "image_path": "books/Азиатский берег.jpg",
+        "image_path": "images/Азиатский берег.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1949,7 +1949,7 @@
         "author": "Росоховатский Игорь",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Азы.txt",
-        "image_path": "books/Азы.jpg",
+        "image_path": "images/Азы.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1960,7 +1960,7 @@
         "author": "Стальнов Илья",
         "img_src": "/images/nopic.gif",
         "text_path": "books/БРАКОНЬЕРЫ.txt",
-        "image_path": "books/БРАКОНЬЕРЫ.jpg",
+        "image_path": "images/БРАКОНЬЕРЫ.jpg",
         "comments": [
             "Небольшой рассказ. Пародия на человеческую жизнь. Инопланетяне сидящие у костра и поющие песни, после дозы инопланетного алкоголя. Ничего примечательного!",
             "Автор интересен в тексте есть некоторые несуразности но читается легко и захватывающе. Мне лично, нравится."
@@ -1974,7 +1974,7 @@
         "author": "Пурик Д",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Б О Г.txt",
-        "image_path": "books/Б О Г.jpg",
+        "image_path": "images/Б О Г.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1985,7 +1985,7 @@
         "author": "Дэниэлс Брюс",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Баалимский вопрос.txt",
-        "image_path": "books/Баалимский вопрос.jpg",
+        "image_path": "images/Баалимский вопрос.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -1996,7 +1996,7 @@
         "author": "Аливердиев Андрей",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Баба Яга.txt",
-        "image_path": "books/Баба Яга.jpg",
+        "image_path": "images/Баба Яга.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -2007,7 +2007,7 @@
         "author": "Уэллс Герберт Джордж",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Бабочка.txt",
-        "image_path": "books/Бабочка.jpg",
+        "image_path": "images/Бабочка.jpg",
         "comments": [
             "Меня иногда пугает его способность прогнозировать."
         ],
@@ -2020,7 +2020,7 @@
         "author": "Федоров Игорь",
         "img_src": "/shots/19533.jpg",
         "text_path": "books/Бабочки.txt",
-        "image_path": "books/Бабочки.jpg",
+        "image_path": "images/Бабочки.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -2031,7 +2031,7 @@
         "author": "Эвентов Вадим",
         "img_src": "/images/nopic.gif",
         "text_path": "books/Бабушка.txt",
-        "image_path": "books/Бабушка.jpg",
+        "image_path": "images/Бабушка.jpg",
         "comments": [],
         "genres": [
             "Научная фантастика"
@@ -2042,7 +2042,7 @@
         "author": "Жемайтис Сергей",
         "img_src": "/shots/19540.jpg",
         "text_path": "books/Багряная планета.txt",
-        "image_path": "books/Багряная планета.jpg",
+        "image_path": "images/Багряная планета.jpg",
         "comments": [
             "Классика фантастики: интересно, познавательно и не оторваться. Сейчас такие книги - уже редкость.",
             "Книжка примитивная на уровне Принцессы марса, но в своё время была -супер!",
