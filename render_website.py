@@ -10,7 +10,7 @@ env = Environment(
     autoescape=select_autoescape(['html', 'xml'])
 )
 
-pages_dir = "pages"
+pages_dir = 'pages'
 
 
 def create_pages_directory(directory):
@@ -20,7 +20,7 @@ def create_pages_directory(directory):
 
 def load_books(dest_folder):
     file_path = os.path.join(dest_folder, "books_info.json")
-    with open(file_path, "r", encoding='utf-8') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         books = json.load(file)
     return books
 
@@ -33,7 +33,7 @@ def render_page(page_books, page_num, total_pages):
                                     total_pages=total_pages)
 
     file_path = os.path.join(pages_dir, f'index{page_num}.html')
-    with open(file_path, 'w', encoding="utf8") as file:
+    with open(file_path, 'w', encoding='utf8') as file:
         file.write(rendered_page)
 
 
@@ -50,7 +50,7 @@ def on_reload(dest_folder):
 def create_parser():
     parser = argparse.ArgumentParser(prog='render_website',
                                      description='запускает скрипт для создания сайта с книгами')
-    parser.add_argument('--dest_folder', help="Укажите путь, где хранится файл json",
+    parser.add_argument('--dest_folder', help='Укажите путь, где хранится файл json',
                         type=str, default='media/')
     return parser
 
@@ -73,5 +73,5 @@ def main():
     server.serve(root='.')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
