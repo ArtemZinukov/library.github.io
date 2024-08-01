@@ -21,7 +21,7 @@ Python3 должен быть уже установлен. Затем испол
 Выглядит вот так:
 ![img_1.png](img_1.png)
 
-Ссылка на сайт: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index1.html)
+Ссылка на сайт: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index2.html)
 
 
 Также при необходимости вы можете воспользоваться сайтом, открыв его у себя на компьютере,
