@@ -5,12 +5,12 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from livereload import Server
 from more_itertools import chunked
 
+PAGES_DIR = 'pages'
+
 env = Environment(
     loader=FileSystemLoader('.'),
     autoescape=select_autoescape(['html', 'xml'])
 )
-
-pages_dir = 'pages'
 
 
 def create_pages_directory(directory):
@@ -26,13 +26,14 @@ def load_books(dest_folder):
 
 
 def render_page(page_books, page_num, total_pages):
-
+    file_name = f'index{page_num}'
     template = env.get_template('template.html')
     rendered_page = template.render(books=page_books,
                                     page_num=page_num,
-                                    total_pages=total_pages)
+                                    total_pages=total_pages,
+                                    file_name=file_name)
 
-    file_path = os.path.join(pages_dir, f'index{page_num}.html')
+    file_path = os.path.join(PAGES_DIR, f'index{page_num}.html')
     with open(file_path, 'w', encoding='utf8') as file:
         file.write(rendered_page)
 
@@ -59,7 +60,7 @@ def main():
     parser = create_parser()
     parser_args = parser.parse_args()
 
-    create_pages_directory(pages_dir)
+    create_pages_directory(PAGES_DIR)
 
     on_reload(parser_args.dest_folder)
 
