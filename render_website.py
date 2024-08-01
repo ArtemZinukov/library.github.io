@@ -7,6 +7,7 @@ from more_itertools import chunked
 
 PAGES_DIR = 'pages'
 
+
 env = Environment(
     loader=FileSystemLoader('.'),
     autoescape=select_autoescape(['html', 'xml'])
