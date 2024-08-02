@@ -15,13 +15,10 @@ def load_books(file_path):
 
 
 def render_page(page_books, page_num, total_pages, env):
-    file_name = f'index{page_num}'
     template = env.get_template('template.html')
     rendered_page = template.render(books=page_books,
                                     page_num=page_num,
-                                    total_pages=total_pages,
-                                    file_name=file_name)
-
+                                    total_pages=total_pages)
     file_path = os.path.join(PAGES_DIR, f'index{page_num}.html')
     with open(file_path, 'w', encoding='utf8') as file:
         file.write(rendered_page)
