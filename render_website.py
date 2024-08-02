@@ -19,8 +19,7 @@ def create_pages_directory(directory):
         os.makedirs(directory)
 
 
-def load_books(dest_folder):
-    file_path = os.path.join(dest_folder, "books_info.json")
+def load_books(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         books = json.load(file)
     return books
@@ -53,7 +52,7 @@ def create_parser():
     parser = argparse.ArgumentParser(prog='render_website',
                                      description='запускает скрипт для создания сайта с книгами')
     parser.add_argument('--dest_folder', help='Укажите путь, где хранится файл json',
-                        type=str, default='media/')
+                        type=str, default='media/books_info.json')
     return parser
 
 
