@@ -8,24 +8,13 @@ from more_itertools import chunked
 PAGES_DIR = 'pages'
 
 
-env = Environment(
-    loader=FileSystemLoader('.'),
-    autoescape=select_autoescape(['html', 'xml'])
-)
-
-
-def create_pages_directory(directory):
-    if not os.path.exists(directory):
-        os.makedirs(directory)
-
-
 def load_books(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         books = json.load(file)
     return books
 
 
-def render_page(page_books, page_num, total_pages):
+def render_page(page_books, page_num, total_pages, env):
     file_name = f'index{page_num}'
     template = env.get_template('template.html')
     rendered_page = template.render(books=page_books,
@@ -38,14 +27,14 @@ def render_page(page_books, page_num, total_pages):
         file.write(rendered_page)
 
 
-def on_reload(dest_folder):
+def on_reload(dest_folder, env):
     books = load_books(dest_folder)
     books_per_page = 20
     chunked_books = list(chunked(books, books_per_page))
     total_pages = len(chunked_books)
 
     for page_num, page_books in enumerate(chunked_books, start=1):
-        render_page(page_books, page_num, total_pages)
+        render_page(page_books, page_num, total_pages, env)
 
 
 def create_parser():
@@ -57,12 +46,17 @@ def create_parser():
 
 
 def main():
+    env = Environment(
+        loader=FileSystemLoader('.'),
+        autoescape=select_autoescape(['html', 'xml'])
+    )
+
     parser = create_parser()
     parser_args = parser.parse_args()
 
-    create_pages_directory(PAGES_DIR)
+    os.makedirs(PAGES_DIR, exist_ok=True)
 
-    on_reload(parser_args.dest_folder)
+    on_reload(parser_args.dest_folder, env)
 
     server = Server()
     server.watch('media/books_info.json', on_reload)
