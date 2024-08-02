@@ -18,15 +18,18 @@ Python3 должен быть уже установлен. Затем испол
 
 Вы также можете указать путь к файлу json, для того, чтобы использовать, необходимо прописать команду:
 
-```python render_website.py --destfolder ваш путь к файлу```
+```python render_website.py --dest_folder ваш путь к файлу```
 
 по стандарту путь вот такой: "media/books_info.json".
+
 ## Рабочий сайт
+
+После запуска скрипта перейти по ссылке http://127.0.0.1:5500/pages/index3.html
 
 Выглядит вот так:
 ![img_1.png](img_1.png)
 
-Ссылка на сайт: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index2.html)
+Ссылка на сайт для примера: [страница сайта на Github Pages](https://artemzinukov.github.io/library.github.io/pages/index2.html)
 
 
 Также при необходимости вы можете воспользоваться сайтом, открыв его у себя на компьютере,

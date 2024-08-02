@@ -38,7 +38,7 @@ def create_parser():
     parser = argparse.ArgumentParser(prog='render_website',
                                      description='запускает скрипт для создания сайта с книгами')
     parser.add_argument('--dest_folder', help='Укажите путь, где хранится файл json',
-                        type=str, default='media/books_info.json')
+                        type=str, default='./media/books_info.json')
     return parser
 
 
@@ -56,13 +56,9 @@ def main():
     on_reload(parser_args.dest_folder, env)
 
     server = Server()
-    server.watch('media/books_info.json', on_reload)
-    server.watch('media/books/*.txt', on_reload)
-    server.watch('media/images/*.jpg', on_reload)
-    server.watch('template.html', on_reload)
-    server.watch('pages/*.html', on_reload)
+    server.watch('template.html', lambda: on_reload(parser_args.dest_folder, env))
 
-    server.serve(root='.')
+    server.serve(root='.', default_filename='pages/index1.html')
 
 
 if __name__ == '__main__':
